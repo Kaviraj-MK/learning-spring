@@ -7,6 +7,10 @@ This project is to study the basics of spring boot.
 1. master
 2. Add-embedded-database
 
+## PR creation pattern
+After creating branches, it will be much easier to track the project if we create the PRs for each branch. So follow the
+PR creation convention accordingly.
+
 ## Installation
 Instructions on how to install and set up the project.
 
