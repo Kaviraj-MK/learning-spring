@@ -6,6 +6,7 @@ This project is to study the basics of spring boot.
 ## Branching Order
 1. master
 2. Add-embedded-database
+3. Add-Spring-data-repositories
 
 ## PR creation pattern
 After creating branches, it will be much easier to track the project if we create the PRs for each branch. So follow the
